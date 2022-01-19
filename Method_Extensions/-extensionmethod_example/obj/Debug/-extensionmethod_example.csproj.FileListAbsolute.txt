@@ -1,0 +1,8 @@
+C:\Users\nilip\OneDrive\Desktop\WebDev\C# Practice\-extensionmethod_example\bin\Debug\-extensionmethod_example.exe.config
+C:\Users\nilip\OneDrive\Desktop\WebDev\C# Practice\-extensionmethod_example\bin\Debug\-extensionmethod_example.exe
+C:\Users\nilip\OneDrive\Desktop\WebDev\C# Practice\-extensionmethod_example\bin\Debug\-extensionmethod_example.pdb
+C:\Users\nilip\OneDrive\Desktop\WebDev\C# Practice\-extensionmethod_example\obj\Debug\-extensionmethod_example.csproj.AssemblyReference.cache
+C:\Users\nilip\OneDrive\Desktop\WebDev\C# Practice\-extensionmethod_example\obj\Debug\-extensionmethod_example.csproj.SuggestedBindingRedirects.cache
+C:\Users\nilip\OneDrive\Desktop\WebDev\C# Practice\-extensionmethod_example\obj\Debug\-extensionmethod_example.csproj.CoreCompileInputs.cache
+C:\Users\nilip\OneDrive\Desktop\WebDev\C# Practice\-extensionmethod_example\obj\Debug\-extensionmethod_example.exe
+C:\Users\nilip\OneDrive\Desktop\WebDev\C# Practice\-extensionmethod_example\obj\Debug\-extensionmethod_example.pdb

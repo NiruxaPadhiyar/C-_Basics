@@ -1,0 +1,8 @@
+C:\Users\nilip\OneDrive\Desktop\WebDev\Class\Loops\Switch_Case_Example\obj\Debug\Switch_Case_Example.csproj.AssemblyReference.cache
+C:\Users\nilip\OneDrive\Desktop\WebDev\Class\Loops\Switch_Case_Example\obj\Debug\Switch_Case_Example.csproj.SuggestedBindingRedirects.cache
+C:\Users\nilip\OneDrive\Desktop\WebDev\Class\Loops\Switch_Case_Example\obj\Debug\Switch_Case_Example.csproj.CoreCompileInputs.cache
+C:\Users\nilip\OneDrive\Desktop\WebDev\Class\Loops\Switch_Case_Example\bin\Debug\Switch_Case_Example.exe.config
+C:\Users\nilip\OneDrive\Desktop\WebDev\Class\Loops\Switch_Case_Example\bin\Debug\Switch_Case_Example.exe
+C:\Users\nilip\OneDrive\Desktop\WebDev\Class\Loops\Switch_Case_Example\bin\Debug\Switch_Case_Example.pdb
+C:\Users\nilip\OneDrive\Desktop\WebDev\Class\Loops\Switch_Case_Example\obj\Debug\Switch_Case_Example.exe
+C:\Users\nilip\OneDrive\Desktop\WebDev\Class\Loops\Switch_Case_Example\obj\Debug\Switch_Case_Example.pdb

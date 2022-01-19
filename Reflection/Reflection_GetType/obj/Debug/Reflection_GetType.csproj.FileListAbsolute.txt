@@ -1,0 +1,8 @@
+C:\Users\nilip\OneDrive\Desktop\WebDev\Class\Reflection\Reflection_GetType\bin\Debug\Reflection_GetType.exe.config
+C:\Users\nilip\OneDrive\Desktop\WebDev\Class\Reflection\Reflection_GetType\bin\Debug\Reflection_GetType.exe
+C:\Users\nilip\OneDrive\Desktop\WebDev\Class\Reflection\Reflection_GetType\bin\Debug\Reflection_GetType.pdb
+C:\Users\nilip\OneDrive\Desktop\WebDev\Class\Reflection\Reflection_GetType\obj\Debug\Reflection_GetType.csproj.AssemblyReference.cache
+C:\Users\nilip\OneDrive\Desktop\WebDev\Class\Reflection\Reflection_GetType\obj\Debug\Reflection_GetType.csproj.SuggestedBindingRedirects.cache
+C:\Users\nilip\OneDrive\Desktop\WebDev\Class\Reflection\Reflection_GetType\obj\Debug\Reflection_GetType.csproj.CoreCompileInputs.cache
+C:\Users\nilip\OneDrive\Desktop\WebDev\Class\Reflection\Reflection_GetType\obj\Debug\Reflection_GetType.exe
+C:\Users\nilip\OneDrive\Desktop\WebDev\Class\Reflection\Reflection_GetType\obj\Debug\Reflection_GetType.pdb
