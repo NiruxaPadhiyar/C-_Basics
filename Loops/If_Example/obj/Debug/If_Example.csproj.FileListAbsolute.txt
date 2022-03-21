@@ -1,8 +1,0 @@
-C:\Users\nilip\OneDrive\Desktop\WebDev\Class\Loops\If_Example\bin\Debug\If_Example.exe.config
-C:\Users\nilip\OneDrive\Desktop\WebDev\Class\Loops\If_Example\bin\Debug\If_Example.exe
-C:\Users\nilip\OneDrive\Desktop\WebDev\Class\Loops\If_Example\bin\Debug\If_Example.pdb
-C:\Users\nilip\OneDrive\Desktop\WebDev\Class\Loops\If_Example\obj\Debug\If_Example.csproj.AssemblyReference.cache
-C:\Users\nilip\OneDrive\Desktop\WebDev\Class\Loops\If_Example\obj\Debug\If_Example.csproj.SuggestedBindingRedirects.cache
-C:\Users\nilip\OneDrive\Desktop\WebDev\Class\Loops\If_Example\obj\Debug\If_Example.csproj.CoreCompileInputs.cache
-C:\Users\nilip\OneDrive\Desktop\WebDev\Class\Loops\If_Example\obj\Debug\If_Example.exe
-C:\Users\nilip\OneDrive\Desktop\WebDev\Class\Loops\If_Example\obj\Debug\If_Example.pdb
